@@ -1,0 +1,3 @@
+[submodule "stabil-agil/themes/hugo-profile"]
+	path = stabil-agil/themes/hugo-profile
+	url = https://github.com/froilainhaeckse/hugo-profile
